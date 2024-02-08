@@ -1,0 +1,2 @@
+../drivers/src/stm32f407xx_rcc.c:17:10:RCC_Pclk1Value	24	static
+../drivers/src/stm32f407xx_rcc.c:51:10:RCC_Pclk2Value	24	static

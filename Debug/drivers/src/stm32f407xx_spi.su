@@ -1,0 +1,14 @@
+../drivers/src/stm32f407xx_spi.c:15:6:SPI_PeriClockControl	16	static
+../drivers/src/stm32f407xx_spi.c:30:6:SPI_Init	24	static
+../drivers/src/stm32f407xx_spi.c:64:6:SPI_SendLength	16	static
+../drivers/src/stm32f407xx_spi.c:69:6:SPI_SendData	24	static
+../drivers/src/stm32f407xx_spi.c:85:6:SPI_ReceiveData	24	static
+../drivers/src/stm32f407xx_spi.c:102:6:SPI_PeripheralControl	16	static
+../drivers/src/stm32f407xx_spi.c:111:6:SPI_SSIConfig	16	static
+../drivers/src/stm32f407xx_spi.c:122:6:SPI_SSOEConfig	16	static
+../drivers/src/stm32f407xx_spi.c:133:9:SPI_GetFlagStatus	16	static
+../drivers/src/stm32f407xx_spi.c:144:9:SPI_SendDataInt	32	static
+../drivers/src/stm32f407xx_spi.c:156:9:SPI_ReceiveDataInt	32	static
+../drivers/src/stm32f407xx_spi.c:169:6:SPI_IRQHandling	16	static
+../drivers/src/stm32f407xx_spi.c:190:6:SPI_CloseTransmisson	16	static
+../drivers/src/stm32f407xx_spi.c:199:6:SPI_CloseReception	16	static
